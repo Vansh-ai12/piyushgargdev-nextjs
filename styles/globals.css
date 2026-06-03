@@ -5,7 +5,9 @@
 
 
 
-
+:root {
+  --site-theme-color: #01d293;
+}
 
 html,
 body {
