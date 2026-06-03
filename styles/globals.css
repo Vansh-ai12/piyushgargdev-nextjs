@@ -2,9 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --site-theme-color: #01d293;
-}
+
+
+
+
 
 html,
 body {
